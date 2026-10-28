@@ -5,7 +5,7 @@ A fast, two-player 3D basketball shooting game that runs entirely in your browse
 [![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](LICENSE)
 ![Made with Three.js](https://img.shields.io/badge/Made%20with-Three.js-black)
 
-**▶ Play it here: https://YOUR-USERNAME.github.io/hoop-legends/**
+**▶ Play it here: https://mdsaifullahnakih.github.io/hoop-legends/**
 
 <!-- Add a screenshot or GIF here:  ![Hoop Legends](docs/screenshot.png) -->
 
@@ -46,7 +46,7 @@ A fast, two-player 3D basketball shooting game that runs entirely in your browse
 No dependencies to install. Either double-click `index.html`, or serve the folder with any static server:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/hoop-legends.git
+git clone https://github.com/mdsaifullahnakih/hoop-legends.git
 cd hoop-legends
 python3 -m http.server 8000
 # open http://localhost:8000
@@ -59,7 +59,7 @@ An internet connection is needed the first time, because Three.js and the fonts 
 1. Push this repository to GitHub.
 2. Open **Settings → Pages**.
 3. Under **Build and deployment**, choose **Deploy from a branch**, select branch `main` and folder `/ (root)`, then **Save**.
-4. After about a minute the game is live at `https://YOUR-USERNAME.github.io/hoop-legends/`.
+4. After about a minute the game is live at `https://mdsaifullahnakih.github.io/hoop-legends/`.
 
 ## Project structure
 
@@ -108,7 +108,7 @@ base64 -w0 my-track.mp3      # macOS: base64 -i my-track.mp3
 
 - 3D engine: [Three.js](https://threejs.org/) (MIT)
 - Fonts: [Orbitron](https://fonts.google.com/specimen/Orbitron) and [Rajdhani](https://fonts.google.com/specimen/Rajdhani) (SIL Open Font License 1.1)
-- Welcome music: *Game Music* by tatamusic. Source and licence: **[add the link to the track page here]**
+- Welcome music: *Game Music* by tatamusic. The source and licence link still needs to be added.
 
 ## Contributing
 

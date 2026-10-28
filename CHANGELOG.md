@@ -19,5 +19,5 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and 
 - Responsive layout for phones, tablets and desktops in portrait and landscape
 - Project documentation: README, LICENSE, CONTRIBUTING and CHANGELOG
 
-[Unreleased]: https://github.com/YOUR-USERNAME/hoop-legends/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/YOUR-USERNAME/hoop-legends/releases/tag/v1.0.0
+[Unreleased]: https://github.com/mdsaifullahnakih/hoop-legends/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/mdsaifullahnakih/hoop-legends/releases/tag/v1.0.0
